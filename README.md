@@ -1,7 +1,7 @@
 <h1>重塑自己</h1>
   
 <h3>
-<p>Welcome to my page! </br> I'm more :boy: , a frontend developer from <b>Shenzhen, China</b>, currently working in a <b> :office: blockchain company</b>. </p>
+<p>Welcome to my page! </br> I'm more :boy: , a frontend developer from <b>Shenzhen, China</b>. </p>
 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihjq520&hide=issues&show_icons=true&theme=gotham)
